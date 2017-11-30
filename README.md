@@ -17,13 +17,13 @@ Twig
 
 
 ### Installation
-`cp -rf .vim .vim-backup`
-`clone git repo into .vim`
-`mkdir ~/.vim/.backup ~/.vim/.swp ~/.vim/.undo`
+`cp -rf .vim .vim-backup`   
+`clone git repo into .vim`  
+`mkdir ~/.vim/.backup ~/.vim/.swp ~/.vim/.undo`  
 
 ### Deinstallation
-This will only work if you followed installation
-`rm -rf .vim `
-`mv .vim-backup .vim`
+This will only work if you followed installation  
+`rm -rf .vim `  
+`mv .vim-backup .vim`  
 
 ### Utilities
