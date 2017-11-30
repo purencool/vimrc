@@ -1,0 +1,6 @@
+.backup/*
+.swp/*
+.undo
+.netrwhist
+tags
+bundle/*
