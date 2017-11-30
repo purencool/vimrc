@@ -1,16 +1,17 @@
-### Purencool vim 
-Vim configuration used develop the following technologies currently this is in alpha and is under testing
+## Purencool vim 
+Vim configuration used develop the technologies below, 
+currently this is in alpha and is under testing
 
-## PHP
+#### PHP
 Drupal and Silex
 
-## JS
-jQuery
+#### JS
+JQuery
 
-## CSS
+#### CSS
 SASS and LESS
 
-## Templating
+#### Templating
 Twig
 
 
