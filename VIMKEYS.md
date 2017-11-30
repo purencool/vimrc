@@ -1,4 +1,4 @@
-# Vim Cheatsheet
+# Vi Cheatsheet
 
 >Disclaimer: This cheatsheet is summerized from my own experience and other publich information. It should not be considered official advice.
 

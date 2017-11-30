@@ -17,17 +17,20 @@ set undodir=~/.vim/.undo//
 set backupdir=~/.vim/.backup//
 set directory=~/.vim/.swp//
 
+" Spell checker
+autocmd BufRead,BufNewFile *.md setlocal spell
 
+" Allow mouse to access the terminal
 set mouse=a
 
 filetype off 
 
-" set the runtime path to include Vundle and initialize
+" Set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 
 
 
-"-------------- PLUGINS STARTS -----------------
+"------------- PLUGINS STARTS -----------------
 call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
